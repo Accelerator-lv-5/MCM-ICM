@@ -1,3 +1,30 @@
-# Notice
-The code in each folder is annotated in detail. You can use the code to solve problem in MCM/ICM.
+## 介绍
+该repo是由电子科大信软学院15级学长liuzili97@github创建，目的是保存MCM-ICM相关的算法。后为电子科大信软学院16级TotallyFine@github、Zjhao666@github所发展，添加了一些新的算法或相关算法的不同解法。
 
+该repo中包含的代码都含有注释如何去解决问题，大部分可以直接进行应用。目前该repo已经包含但不限于如下算法：
+ - SVM
+ - 主成成分分析
+ - 传染病模型
+ - 图论相关算法：包括TSP、最大流、最小费用等
+ - 层次分析法
+ - 排队论
+ - 模拟退火
+ - 粒子群算法
+ - 熵权法
+
+涉及到但不限于如下相关编程语言或软件或代码包：
+ - Matlab
+ - Python
+ - CPP
+ - Lingo
+ - Spss
+ - TensorFlow
+
+## 使用
+该repo的代码可以直接使用，如果你想对相关内容进行更改或者自己进行继续发展，请fork之后在自己的branch中进行修改。
+
+## 参考
+该repo在实现的过程中参考了较多的文献，部分已经列在了代码的注释中，几个主要的参考如下：
+ - 卓金武，MATLAB在数学建模中的应用，北京航空航天大学出版社，2011。
+ - 数学建模算法全收录800页。
+ - Lingo快速入门，工大数模。
