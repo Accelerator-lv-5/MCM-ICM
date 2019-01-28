@@ -9,7 +9,7 @@ nparray = np.array(data).T
 array = pd.DataFrame(nparray)
 array = array.values.tolist()
 
-cols -= 2  # 结尾两列是空的
+# cols -= 2  # 结尾两列是空的
 array_temp = [['' for i in range(rows)] for i in range(rows)]
 
 
@@ -41,6 +41,7 @@ def printf(row, id):
         print()
     # xx=np.array(array_temp)
     # print(xx.shape)
+
 
 for id in range(len(array)):
     printf(array[id], id)

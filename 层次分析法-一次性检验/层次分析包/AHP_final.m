@@ -1,6 +1,7 @@
 clc,clear;
 fid=fopen('cuiruo.txt','r');
-n1=8;n2=14;
+n1=4;
+n2=20;
 a=[];
 for i=1:n1
     tmp=str2num(char(fgetl(fid)));
